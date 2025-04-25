@@ -18,7 +18,7 @@ function topFunction() {
 
 document.addEventListener("DOMContentLoaded", () => {
   const favicon = document.querySelector(".favicon");
-  const navList = document.querySelector(".navigation--bar ul");
+  const navList = document.querySelector(".nav--links ul");
 
   favicon.addEventListener("click", () => {
     navList.classList.toggle("show");
