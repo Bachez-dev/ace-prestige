@@ -346,7 +346,7 @@ i{
       font-size: 20px;
       display: block;
       cursor: pointer;
-      margin-left: 180px;
+      margin-left: 210px;
     }
 
     ul{
@@ -437,7 +437,7 @@ i{
   }
 
   .search--btn{
-    width: 330px;
+    width: 345px;
   }
 
   .brand--logos {
@@ -469,16 +469,17 @@ i{
   .about{
     width: 90%;
     padding: 10px;
- 
+    margin: 0 auto;
   }
 
   .image {
-    width: 95%;
+    width: 94%;
     /* height: 300px; */
     background: url(./Images/tembea1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: 0 auto;
   }
 
   .about p{
